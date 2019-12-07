@@ -1,8 +1,7 @@
-
 export default [
   {
-    id: 'swallowed-grandma',
-    title: 'Computer Swallowed Grandma',
+    id: "swallowed-grandma",
+    title: "Computer Swallowed Grandma",
     content: [
       `The computer swallowed grandma.`,
       `Yes, honestly its true!`,
@@ -27,12 +26,12 @@ export default [
       `So, if inside your ‘Inbox, ’`,
       `My Grandma you should see,`,
       `Please ‘Copy, ’ ‘Scan’ and ‘Paste’ her`,
-      `In an email back to me.`,
+      `In an email back to me.`
     ]
   },
   {
-    id: 'ducks',
-    title: '3 White Ducks',
+    id: "ducks",
+    title: "3 White Ducks",
     content: [
       `Three ducks pecked around`,
       `In a garden one warm day`,
@@ -66,12 +65,12 @@ export default [
       `So my friend, please remember`,
       `If you feel something's amok`,
       `At your child's wading pool`,
-      `You may find 3 white ducks!`,
-    ],
+      `You may find 3 white ducks!`
+    ]
   },
   {
-    id: 'my-computer',
-    title: 'My Computer',
+    id: "my-computer",
+    title: "My Computer",
     content: [
       `My computer has a language`,
       `That is foreign to me`,
@@ -91,12 +90,12 @@ export default [
       `Yet, computer and I work hand and eye`,
       `With a mouse to translate`,
       `The tasks that I want it to do`,
-      `While it points out my mistakes!`,
+      `While it points out my mistakes!`
     ]
   },
   {
-    id: 'clowns',
-    title: 'Class Clown',
+    id: "clowns",
+    title: "Class Clown",
     content: [
       `hello reader, i'm trying too hard`,
       `as if you could grade me`,
@@ -111,23 +110,24 @@ export default [
       `similar to the class toad`,
       `sprawling my consciousness out`,
       `a beating heart exposed`
-    ],
+    ]
   },
   {
-    id: 'binary',
-    title: 'There are 10 types of people in this world that can understand this poem',
+    id: "binary",
+    title:
+      "There are 10 types of people in this world that can understand this poem",
     content: [
-      '101110101101‬',
-      '‭1011111011101111‬',
-      '‭1111111011101101‬',
-      '‭1010‬',
-      '‭10111­0101101‬',
-      '‭1111101011001110‬'
-    ],
+      "101110101101‬",
+      "‭1011111011101111‬",
+      "‭1111111011101101‬",
+      "‭1010‬",
+      "‭10111­0101101‬",
+      "‭1111101011001110‬"
+    ]
   },
   {
-    id: 'conditions',
-    title: 'Conditions Of Programming',
+    id: "conditions",
+    title: "Conditions Of Programming",
     content: [
       `If you want to wear those shoes,`,
       `Put them on.`,
@@ -156,12 +156,12 @@ export default [
       `We are both in conflict...`,
       `With the current nonsense that is being dished!`,
       ``,
-      `And getting out of it provides neither one of us an exit!`,
-    ],
+      `And getting out of it provides neither one of us an exit!`
+    ]
   },
   {
-    id: 'javascript',
-    title: 'JavaScript',
+    id: "javascript",
+    title: "JavaScript",
     content: [
       `when we first met we were really broke`,
       `you got back into code & it was no joke`,
@@ -183,11 +183,11 @@ export default [
       `Put us all together & it’s a motley crew`,
       `what we have in common is what we all knew…`,
       `code can change your life`
-    ],
+    ]
   },
   {
-    id: 'exercise',
-    title: 'Exercise',
+    id: "exercise",
+    title: "Exercise",
     content: [
       `When I think about exercise,`,
       `I'm inspired to join a gym class,`,
@@ -217,12 +217,12 @@ export default [
       `I'm happy for others to exercise,`,
       `So long as it doesn't include me,`,
       `I'd rather relax with my feet up,`,
-      `While watching sports on TV.`,
+      `While watching sports on TV.`
     ]
   },
   {
-    id: 'bake',
-    title: 'I Like To Bake',
+    id: "bake",
+    title: "I Like To Bake",
     content: [
       `Lord, you know I like to bake,`,
       `That velvety rich chocolate cake,`,
@@ -252,12 +252,12 @@ export default [
       `Lord, a special favour I shall ask,`,
       `It would only be a simple task,`,
       `You who changed water into wine,`,
-      `Dissolve those calories when I dine!`,
+      `Dissolve those calories when I dine!`
     ]
   },
   {
-    id: 'low-tech',
-    title: 'Low-Tech Computing',
+    id: "low-tech",
+    title: "Low-Tech Computing",
     content: [
       `My new computer's quite the gift`,
       `And one I truly covet -`,
@@ -272,7 +272,7 @@ export default [
       `My new computer's quite the joy`,
       `I'ii savor dusk till dawn`,
       `Now all I need to find is`,
-      `The switch that turns it on!`,
+      `The switch that turns it on!`
     ]
   }
-]
+];
